@@ -5,3 +5,8 @@
     font-weight: bold;
     padding: 2em;
 }
+
+.container > .header > h3 > .logo {
+    height: 2em;
+    margin-top: -0.3em;
+}
