@@ -85,4 +85,5 @@ body {
 .jumbotron-bootcamp {
   background: url(images/2018-global-azure-bootcamp.png) no-repeat;
   background-size: 100%;
+  background-color: #efefef;
 }
